@@ -292,14 +292,24 @@ curl http://localhost:8000/health
 - **Backups**: Timestamped JSON backups
 - **Export Formats**: JSON, GEXF, GraphML
 
-## 🤝 Contributing
+## 💡 How to Contribute
 
-This is an innovative approach to AI memory systems. Key areas for enhancement:
+This project is experimental and open to improvement.  
+If you're a developer, researcher, or AI enthusiast and want to help:
 
-1. **Multi-modal Support**: Images, documents, and other data types
-2. **Temporal Analysis**: Time-based relationship evolution
-3. **Federated Learning**: Distributed memory systems
-4. **Advanced Visualization**: 3D graph rendering and interaction
+1. Fork this repo
+2. Create a feature branch (`git checkout -b feature-name`)
+3. Implement your improvement
+4. Open a Pull Request and describe your idea
+
+**Suggestions for contributions:**
+- Optimize graph traversal algorithms
+- Improve the React graph visualization (UI/UX)
+- Experiment with new embedding models or vector stores
+- Add new graph analytics features (e.g., temporal evolution)
+- Documentation improvements
+
+Even small fixes or discussions are valuable — feel free to open an **Issue** with ideas or feedback.
 
 ## 📄 License
 
